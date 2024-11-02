@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BottomNavigationApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="api_key">8699c2463184eec0bc3a91135a20a3d2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homeFragmentLabel">Главная</string>
+    <string name="noteFragmentLabel">Заметка</string>
+    <string name="noteListFragmentLabel">Список</string>
+    <string name="weatherFragmentLabel">Погода</string>
+    <string name="startTextViewText">Записная книжка</string>
+    <string name="nameEtHint">Введите имя</string>
+    <string name="surnameETHint">Введите фамилию</string>
+    <string name="saveBTText">Сохранить</string>
+    <string name="noteETText">Введите заметку</string>
+    <string name="editBTText">Редактировать</string>
+    <string name="cityETHint">Введите город</string>
+    <string name="acceptBTText">Принять</string>
+</resources>
